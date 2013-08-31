@@ -2,7 +2,6 @@
 ##Date: 5.10.2013
 ##Version: v1.0.0
 ##Author(s): Chris Bowen
-##URL: http://github.com/apimash/starterkits
 
 ----------
 ###Description
