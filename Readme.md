@@ -48,4 +48,4 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 ##Change Log
 ###v1.0.0
   
-  [1]: https://raw.github.com/apimash/StarterKits/master/APIMASH_Yelp_StarterKit/screenshot_main.png "Yelp Starter Kit Screenshot" 
+  [1]: https://raw.github.com/winappkits/YelpAPI/master/Windows8/screenshot_main.png "Yelp Starter Kit Screenshot" 
