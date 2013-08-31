@@ -1,4 +1,4 @@
-#APIMASH Yelp Starter Kit
+#Yelp API Starter Kit
 ##Date: 5.10.2013
 ##Version: v1.0.0
 ##Author(s): Chris Bowen
@@ -25,7 +25,7 @@ The Yelp Starter Kit is a XAML-based Windows 8 app that demonstrates calling a W
 ###Setup
 
  - Request a Developer Key from Yelp (http://www.yelp.com/developers)
- - Download the Starter Kit Zip Portfolio from (http://apimash.github.io/StarterKits/)
+ - Download the Starter Kit Zip File
  - Open the Solution in Visual Studio
  - Obtain JSON.NET from Newtonsoft (https://json.codeplex.com/)
     - Use NuGet in Visual Studio to add JSON.NET to the APIMASHLib project
